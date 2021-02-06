@@ -25,7 +25,7 @@ def main():
                 else:
                     fc.turn_left(speed)
                     dir = 1
-            else if dir == 1:
+            elif dir == 1:
                 fc.turn_left(speed)
             else :
                 fc.turn_right(speed)
