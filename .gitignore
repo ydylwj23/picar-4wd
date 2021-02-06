@@ -1,1 +1,5 @@
 .vscode/*
+examples/web/server/__pycache__
+build/
+dist/
+picar_4wd.egg-info/
