@@ -15,7 +15,7 @@ def main():
             if random.random() < 0.5:
                 fc.turn_right(speed)
             else:
-                fac.turn_left(speed)
+                fc.turn_left(speed)
         else:
             fc.forward(speed)
 
